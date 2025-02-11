@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: mzaman30
+    Linux system name: mzaman30
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/mzaman30/ops445/lab4
+    Start at: Tue Feb 11 15:50:44 2025
+=================================================================
